@@ -9,6 +9,9 @@ Estarei usando a plataforma para mostrar não só os meus trabalhos mas também 
 ### 🌐 Principais conhecimentos
 
 > PHP
+>
 > Python
+> 
 > HTML/CSS/JavaScript
+>
 > SQL
