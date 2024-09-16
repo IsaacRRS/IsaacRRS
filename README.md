@@ -1,16 +1,18 @@
 # 👋 Olá, caro observador
 
-Meu nome é Isaac, tenho 18 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/78b68007-fadc-49c6-97fd-6565721fef36">
+</p>
 
-## 📜 Objetivos no GitHUB
-
-Estarei usando a plataforma para mostrar não só os meus trabalhos mas também para fornecer conhecimentos para quem necessitar.
+- Cursando ADS na UNIPÊ
+- Atualmente aprendendo React e Laravel
+- Futuramente pretendo aprender: TypeScript | Java | Spring
 
 ## 🌐 Principais conhecimentos
 
-### Linguagens
+### Linguagens 
 
-[![My Skills](https://skillicons.dev/icons?i=php,py,js,c,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,py,js,c,html,css,arduino)](https://skillicons.dev)
 
 ### Frameworks e Bibliotecas
 
@@ -20,6 +22,10 @@ Estarei usando a plataforma para mostrar não só os meus trabalhos mas também 
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
+### Ambientes de Desenvolvimento
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,arduino,pycharm)](https://skillicons.dev)
+
 ### Outras ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,figma)](https://skillicons.dev)
