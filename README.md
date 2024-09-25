@@ -5,8 +5,8 @@
 </p>
 
 - Cursando ADS na UNIPÊ
-- Atualmente aprendendo React e Laravel
-- Futuramente pretendo aprender: TypeScript | Java | Spring
+- Atualmente aprendendo React e TypeScript
+- Futuramente pretendo aprender:  Java | Spring
 
 ## 🌐 Principais conhecimentos
 
