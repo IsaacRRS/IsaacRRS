@@ -12,11 +12,11 @@
 
 ### Linguagens 
 
-[![My Skills](https://skillicons.dev/icons?i=php,py,js,c,html,css,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,py,js,c,typescript,html,css,arduino)](https://skillicons.dev)
 
 ### Frameworks e Bibliotecas
 
-[![My Skills](https://skillicons.dev/icons?i=django,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,django,laravel,next)](https://skillicons.dev)
 
 ### Banco de Dados
 
