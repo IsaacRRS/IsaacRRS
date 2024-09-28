@@ -12,7 +12,7 @@
 
 ### Linguagens 
 
-[![My Skills](https://skillicons.dev/icons?i=php,py,js,c,typescript,html,css,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,py,js,c,cpp,typescript,html,css)](https://skillicons.dev)
 
 ### Frameworks e Bibliotecas
 
@@ -24,8 +24,8 @@
 
 ### Ambientes de Desenvolvimento
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,arduino,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,arduino,pycharm)](https://skillicons.dev)
 
 ### Outras ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,nodejs,figma)](https://skillicons.dev)
