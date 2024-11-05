@@ -12,7 +12,7 @@
 
 ### Linguagens 
 
-[![My Skills](https://skillicons.dev/icons?i=php,py,js,c,cpp,typescript,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,php,typescript)](https://skillicons.dev)
 
 ### Frameworks e Bibliotecas
 
@@ -28,4 +28,4 @@
 
 ### Outras ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,nodejs,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,nodejs,figma,tailwind)](https://skillicons.dev)
