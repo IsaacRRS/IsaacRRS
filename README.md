@@ -1,4 +1,4 @@
-# 👋 Olá, caro observador
+# 👋 Olá!
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/78b68007-fadc-49c6-97fd-6565721fef36">
