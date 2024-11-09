@@ -5,8 +5,8 @@
 </p>
 
 - Cursando ADS na UNIPÊ
-- Atualmente aprendendo React e TypeScript
-- Futuramente pretendo aprender:  Java | Spring
+- Atualmente aprendendo Java e Spring
+  
 
 ## 🌐 Principais conhecimentos
 
@@ -16,7 +16,7 @@
 
 ### Frameworks e Bibliotecas
 
-[![My Skills](https://skillicons.dev/icons?i=react,django,laravel,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,django,laravel,next,angular)](https://skillicons.dev)
 
 ### Banco de Dados
 
@@ -28,4 +28,4 @@
 
 ### Outras ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,nodejs,figma,tailwind,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,nodejs,figma,tailwind,firebase,docker )](https://skillicons.dev)
