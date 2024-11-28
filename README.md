@@ -1,11 +1,16 @@
 # 👋 Olá!
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/78b68007-fadc-49c6-97fd-6565721fef36">
-</p>
+<div align="center" class='container'>
+  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacrrs&theme=blue-green&langs_count=8&layout=compact" /></div>
+</div>
 
-- Cursando ADS na UNIPÊ
-- Atualmente aprendendo Java e Spring
+
+### Sobre mim
+
+- Cursando Análise e Desenvolvimento de Sistemas na UNIPE
+- Atualmente aprendendo Java & Spring
+- Busca por aprendizado constante 
+- Operando em atividades acadêmicas, com ênfase à aplicações voltadas ao mercado
   
 
 ## 🌐 Principais conhecimentos
