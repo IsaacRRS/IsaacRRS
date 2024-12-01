@@ -1,7 +1,7 @@
 # 👋 Olá!
 
 <div align="center" class='container'>
-  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacrrs&theme=blue-green&langs_count=8&layout=compact" /></div>
+  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacrrs&theme=blue-green&langs_count=8&layout=donut" /></div>
 </div>
 
 
