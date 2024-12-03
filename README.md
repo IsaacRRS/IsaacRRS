@@ -21,7 +21,7 @@
 
 ### Frameworks e Bibliotecas
 
-[![My Skills](https://skillicons.dev/icons?i=react,django,laravel,next,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,laravel,next,angular)](https://skillicons.dev)
 
 ### Banco de Dados
 
