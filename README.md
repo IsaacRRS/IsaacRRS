@@ -8,7 +8,6 @@
 ### Sobre mim
 
 - Cursando Análise e Desenvolvimento de Sistemas na UNIPE
-- Atualmente aprendendo Java & Spring
 - Busca por aprendizado constante 
 - Operando em atividades acadêmicas, com ênfase à aplicações voltadas ao mercado
   
